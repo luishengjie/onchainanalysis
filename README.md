@@ -16,7 +16,7 @@ Example for Ethereum Onchain Analysis. In this example, we demonstrate how ETH e
 - Notebook to generate train and test data: [00_data_preparation.ipynb](00_data_preparation.ipynb)
 
 ## Classify Ethereum Exchange Addresses
-- Classical machine learning: [01_classify_exchange_lgbm.ipynb](01_classify_exchange_lgbm.ipynb)
+- Classical machine learning: [01_classify_exchange_tree.ipynb](01_classify_exchange_tree.ipynb)
 
 ## Limitations of Chartalist Dataset
 - Missing timestamp data: Dataset does not incliude transaction timestamp
